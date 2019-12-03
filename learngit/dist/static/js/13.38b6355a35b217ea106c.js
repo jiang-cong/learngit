@@ -1,0 +1,2 @@
+webpackJsonp([13],{EsRJ:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{attrs:{id:"app"}},[this._v("\n  1234\n")])},staticRenderFns:[]};var a=n("C7Lr")({name:"right2"},r,!1,function(e){n("QalZ")},"data-v-70027cc3",null);t.default=a.exports},QalZ:function(e,t){}});
+//# sourceMappingURL=13.38b6355a35b217ea106c.js.map
